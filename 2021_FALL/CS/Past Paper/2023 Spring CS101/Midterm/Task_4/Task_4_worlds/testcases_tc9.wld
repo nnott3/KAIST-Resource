@@ -1,0 +1,5 @@
+avenues = 1
+streets = 2
+robot = (2, 2, 'E', 10)
+walls = []
+beepers = {}

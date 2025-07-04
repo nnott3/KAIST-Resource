@@ -1,0 +1,11 @@
+avenues = 3
+streets = 3
+walls = [
+    (4,3),
+    (4,5),
+
+    (1,2),
+    (3,2),
+]
+beepers = {
+}
