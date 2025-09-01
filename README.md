@@ -1,12 +1,18 @@
 # 🎓 My 4 Years at KAIST
 
 I’m a graduate with a double major in **Materials Science** ⚙️ and **Business Management** 💼.  
+
 This repo organizes my course materials (notes, projects, exams, readings) from college.  
+
 Everything lives in [KAIST-Resource-Nottreepat](https://drive.google.com/drive/folders/1j3KTKqFhhjv7hhz4B-GVMSv7-RuTmqfA?usp=sharing), but I’ve grouped links here by **Year** and **Major**.
 
 ![Tier List of courses i've taken](KAIST%204y%20Tier%20List.png)
 
-i guess, the takeaway here is, learn for the sake of learning, do it because it's hard (or looked easy at first), prof being good at research != teaching, and passion in teaching goes a long way, even if you're a student. what a run-on setence! looking for the times where moments at kaist will become more precious and memorable, probably not now (2 months post grade, SEP 2025)
+i guess, the takeaway here is, learn for the sake of learning, do it because it's hard (or looked easy at first), prof being good at research != teaching, and passion in teaching goes a long way, even if you're a student. 
+
+what a run-on setence.
+
+looking for the times where moments at kaist will become more precious and memorable, probably not now (2 months post grade, SEP 2025)
 
 ---
 
