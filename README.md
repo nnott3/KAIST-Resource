@@ -1,8 +1,8 @@
 # 🎓 My 4 Years at KAIST
 
-I’m a graduate with a double major in **Materials Science** ⚙️ and **Business Management** 💼.  
+I’ve graduated with a double major in **Materials Science** ⚙️ and **Business Management** 💼.  
 
-This repo organizes my course materials (notes, projects, exams, readings) from college.  
+This repo organizes my course materials (notes, projects, exams, readings) from college (2021-2025).  
 
 Everything lives in [KAIST-Resource-Nottreepat](https://drive.google.com/drive/folders/1j3KTKqFhhjv7hhz4B-GVMSv7-RuTmqfA?usp=sharing), but I’ve grouped links here by **Year** and **Major**.
 
