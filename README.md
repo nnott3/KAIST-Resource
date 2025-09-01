@@ -4,6 +4,8 @@ I’m a graduate with a double major in **Materials Science** ⚙️ and **Busin
 This repo organizes my course materials (notes, projects, exams, readings) from college.  
 Everything lives in [KAIST-Resource-Nottreepat](https://drive.google.com/drive/folders/1j3KTKqFhhjv7hhz4B-GVMSv7-RuTmqfA?usp=sharing), but I’ve grouped links here by **Year** and **Major**.
 
+![Tier List of courses i've taken](KAIST%204y%20Tier%20List.png)
+
 ---
 
 ## 📅 Courses by Year  
