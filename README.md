@@ -7,6 +7,7 @@ Everything lives in [KAIST-Resource-Nottreepat](https://drive.google.com/drive/f
 ![Tier List of courses i've taken](KAIST%204y%20Tier%20List.png)
 
 i guess, the takeaway here is, learn for the sake of learning, do it because it's hard (or looked easy at first), prof being good at research != teaching, and passion in teaching goes a long way, even if you're a student. what a run-on setence! looking for the times where moments at kaist will become more precious and memorable, probably not now (2 months post grade, SEP 2025)
+
 ---
 
 ## 📅 Courses by Year  
